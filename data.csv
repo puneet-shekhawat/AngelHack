@@ -1,0 +1,149 @@
+hypertensive disease,blood pressure test,na,na,na
+diabetes,blood sugar test,na,na,na
+depression mental,Physical test,na,na,na
+depressive disorder,Physical test,na,na,na
+coronary arteriosclerosis, ECG test,na,na,na
+coronary heart disease, ECG test,CT scan,na,na
+pneumonia,Chest X-Ray,Blood test,Sputum test,na
+failure heart congestive,ECG test,na,na,na
+accident cerebrovascular,Blood test,na,na,na
+asthma,Chest X-Ray,na,na,na
+myocardial infarction, ECG test,na,na,na
+hypercholesterolemia,lipid test,na,na,na
+infection,Blood test,Stool sample,na,na
+infection urinary tract,Urinalysis,Urine culture,na,na
+anemia,blood test,na,na,na
+chronic obstructive airway disease,CT scan,Chest X-ray,na,na
+dementia,Self-Assessment,na,na,na
+insufficiency renal, ACR test, GFR test,na,na
+confusion,physical test,na,na,na
+degenerative polyarthritis,physical test,na,na,na
+hypothyroidism ,Blood Test,TSH Test,na,na
+anxiety state,physical test,na,na,na
+malignant neoplasms,Blood Test,Blood protein test,Tumor marker test,na
+primary malignant neoplasm,CT scan,PET,Biopsy,na
+acquired imuno-deficiency syndrome ,Blood Test,na,na,na
+HIV,HIV positive test,na,na,na
+hiv infections,HIV positive test,na,na,na
+cellulitis,blood test,X-Ray,na,na
+gastroesophageal reflux disease,Upper endoscopy,Ambulatory acid probe test,na,na
+septicemia,PCT,blood test,na,na
+systemic infection ,blood test,ESR,na,na
+sepsis invertebrate,Blood Test,na,na,na
+deep vein thrombosis,MRI,X-ray,CTPA,na
+dehydration,Blood test,Urinalysis,na,na
+neoplasm ,Blood Test,Blood protein test,na,na
+embolism pulmonary,Blood test,Chest X-ray,MRI,na
+epilepsy ,EEG,ECG,MRI,na
+cardiomyopathy,Chest X-ray,ECG,MRI,na
+chronic kidney failure,Blood test,Urine test,na,na
+carcinoma,Blood Test,Blood protein test,na,na
+hepatitis C ,HCV Antibody Test,na,na,na
+peripheral vascular disease,physical test,Ankle-Brachial Index,Doppler Ultrasound,na
+psychotic disorder ,MRI, CT scan,na,na
+hyperlipidemia,lipoprotein profile,na,na,na
+bipolar disorder,physical test,na,na,na
+obesity,BMI,physical test,na,na
+ischemia ECG,Echocardiogram,CT scan,na,na
+cirrhosis,Biopsy,MRE,na,na
+exanthema,physical test, blood test,na,na
+benign prostatic hypertrophy PSA,Blood test,Urine test,na,na
+kidney failure acute, Urine test, Blood test,na,na
+mitral valve insufficiency,Chest X-ray, ECG test, Cardiac MRI,na
+arthritis, Blood test, ultrasound test,na,na
+bronchitis, Chest X-ray, Sputum test,na,na
+hemiparesis, physical test,na,na,na
+osteoporosis, physical test,na,na,na
+transient ischemic attack, Ct scan, MRI scan,na,na
+adenocarcinoma, Blood test, X-ray,na,na
+paranoia, physical test,na,na,na
+pancreatitis, ultrasound test,na,na,na
+incontinence, Urine test,na,na,na
+paroxysmal dyspnea, physical test,na,na,na
+hernia, Laparoscopy,na,na,na
+malignant neoplasm of prostate, physical test,na,na,na
+carcinoma prostate, PSA test, DRE test,na,na
+edema pulmonary, physical test,na,na,na
+lymphatic diseases, Lymphoscintigraphy,na,na,na
+stenosis aortic valve, ECG, Chest X-ray,na,na
+malignant neoplasm of breast, physical test,na,na,na
+carcinoma breast, Breast exam, Mammogram,na,na
+schizophrenia, Schizophrenia Test,na,na,na
+diverticulitis, MRI, CT scan, blood test,na
+overload fluid, blood test, urine test,na,na
+ulcer peptic, Endoscopy, biopsy, blood test, CT scan
+osteomyelitis, X-Rays , MRI, Biopsy, Bone scan
+gastritis, Endoscopy, Blood test, Stool test,na
+bacteremia, Confirmatory Tests, blood test, urine test,na
+failure kidney, blood test, urine test, Imaging tests,na
+sickle cell anemia, blood test,na,na,na
+failure heart, blood test, ECG, CT Scan , MRI
+upper respiratory infection,CT scan,na,na,na
+hepatitis, blood test, liver ultrasound, liver biopsy,na
+hypertension pulmonary, CT Scan, MRI, ECG,na
+deglutition disorder,Throat test,na,na,na
+gout, joint fluid test, blood test, Ultrasound, CT Scan
+thrombocytopaenia, blood test, surgery,na,na
+hypoglycemia blood test, physical test,na,na,na
+pneumonia aspiration, Sputum test, blood test, Bronchoscopy,na
+colitis, CT Scan, endoscopy, blood test,na
+diverticulosis, blood test, urine test, liver test, CT Scan 
+suicide attempt, physical test,na,na,na
+Pneumocystis carinii pneumonia, PCR test, blood test,na,na
+hepatitis B, blood test, liver test,na,na
+parkinson disease, CT Scan, PET Scan,na,na
+lymphoma, blood test, bone marrow test,na,na
+hyperglycemia, Biopsy, PET Scan, CT Scan,na
+encephalopathy, biopssy, EEG, MRI,na
+tricuspid valve insufficiency, MRI, ECG, Chest X-ray, stress test
+Alzheimer disease, blood test, MRI, CT Scan,na
+candidiasis, blood test,na,na,na
+oralcandidiasis, Endoscopic, blood test, biopsy,na
+neuropathy, blood test, nerve test, biopsy,na
+kidney disease, blood test, urine test, kidney test,na
+fibroid tumor, blood test, MRI,na,na
+glaucoma, gionoscopy, blood test,na,na
+neoplasm metastasis, CT Scan, Bone Scan, PET Scan,na
+malignant tumor of colon, Blood test, bone test, CT Scan,na
+carcinoma colon, colonoscopy, blood test,na,na
+ketoacidosis diabetic, blood test, Chest X-Ray,na,na
+tonic-clonic epilepsy, blood test, EEG test,na,na
+tonic-clonic seizures,  blood test, EEG test,na,na
+malignant neoplasms, CT Scann, blood test, tumor test,na
+respiratory failure, blood test,  heart test, gas test,na
+melanoma, biopsy, physical test,na,na
+gastroenteritis, urine test, stool test,na,na
+malignant neoplasm of lung, Sputum test, biopsy,na,na
+carcinoma of lung, imaging test, tumor test,na,na
+manic disorder, blood test, physical test,na,na
+personality disorder, physical test,na,na,na
+primary carcinoma of the liver cells, blood test, imaging test, tissue test,na
+emphysema pulmonary, imaging test,Chest X-Ray ,na,na
+hemorrhoids, physical test,na,na,na
+spasm bronchial, pulmonary test, Chest X-Ray,na,na
+aphasia, MRI test,na,na,na
+obesity morbid, blood test, physical test,na,na
+pyelonephritis, CT Scan, urine test, physical test,na
+endocarditis, blood test, ECG, CT Scan,  Chest X-Ray
+effusion pericardial, ECG, CT Scan,  Chest X-Ray,na
+pericardial effusion body substance, blood test, ECG, Chest X-Ray,na
+chronic alcoholic intoxication, CBC test, blood test,na,na
+pneumothorax, Chest X-Ray, CT Scan,na,na
+delirium, physical test,na,na,na
+neutropenia, blood test,na,na,na
+hyperbilirubinemia, skin test, urine test, CT Scan,na
+influenza, PCR test, RID test,na,na
+dependence, physical test,na,na,na
+thrombus, blood test, MRI ,na,na
+cholecystitis, imaging test, HIDA test, blood test,na
+hernia hiatal, endoscopy, gastric Test,na,na
+migraine disorders, blood test, MRI , CT Scan,na
+pancytopenia, blood test,na,na,na
+cholelithiasis, ultrasound, CT Scan, MRI,na
+biliary calculus, MRI, blood test ,na,na
+tachycardia sinus, ECG, MRI test,na,na
+ileus, CT Scan, ultrasound, MRI,na
+adhesion, CT Scan,na,na,na
+delusion, X-Ray, blood test,na,na
+affect labile, physical test,na,na,na
+decubitus ulcer, MRI, ESR,na,na
